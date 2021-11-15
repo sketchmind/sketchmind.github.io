@@ -1819,7 +1819,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #3d400d;
+  background: #24b6ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -1845,7 +1845,7 @@ pre .javascript .function {
   white-space: nowrap;
   text-overflow: ellipsis;
 }
-li.recent_posts_li {
+.recent_posts_li {
   text-align: cengter;
   display: block;
   word-break: keep-all;
